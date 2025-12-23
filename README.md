@@ -11,6 +11,7 @@ Keypoints:
 * Exposed application ports and validated container logs
 
 <br>
-Output what I got:
-https://github.com/Dhanyaa-bot/docker-flaskapp/blob/main/images/23-1.png
-https://github.com/Dhanyaa-bot/docker-flaskapp/blob/main/images/23-2.png
+Output what I got:<br>
+https://github.com/Dhanyaa-bot/docker-flaskapp/blob/main/images/23-1.png <br>
+https://github.com/Dhanyaa-bot/docker-flaskapp/blob/main/images/23-2.png <br>
+
