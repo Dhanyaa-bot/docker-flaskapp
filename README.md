@@ -1,4 +1,4 @@
-You can now add:
+Keypoints:
 <br>
 * Dockerized Python Flask Application
 <br>
@@ -9,3 +9,8 @@ You can now add:
 * Debugged Docker runtime issues and dependency errors
 <br>
 * Exposed application ports and validated container logs
+
+<br>
+Output what I got:
+https://github.com/Dhanyaa-bot/docker-flaskapp/blob/main/images/23-1.png
+https://github.com/Dhanyaa-bot/docker-flaskapp/blob/main/images/23-2.png
